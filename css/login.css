@@ -1,0 +1,49 @@
+html,
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.u-label{
+    display: block;
+    margin-top: 20px;
+    color: #FACC2E;
+}
+
+.u-icons{
+    font-size: 30px;
+}
+
+.u-ancla{
+    display: block;
+    margin: 20px 0;
+    color: #0101DF;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    color: #FACC2E;
+}
+
+.login{
+    background: #BDBDBD;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.user-icon{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+
+.buttom{
+    display: block; 
+    margin: auto;
+    margin-top: 60px;
+}
+
